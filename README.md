@@ -1,2 +1,2 @@
-# DFA
-Deterministic FInite Automata in Rust.
+# rsDFA
+Deterministic Finite Automata in Rust.
